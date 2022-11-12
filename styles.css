@@ -1,0 +1,25 @@
+h1 {
+    color: hotpink;
+}
+body{
+    color: lightgreen;
+    background-color: darkblue;
+}
+li{
+    color:cyan;
+}
+a:visited{
+    color:rgb(237, 237, 36);
+}
+.lasagna{
+    height: 250px;
+    width: 250px;
+}
+.eggs{
+    height: 250px;
+    width: 250px;
+}
+.tacos{
+    height: 250px;
+    width: 250px;
+}
